@@ -14,6 +14,7 @@ components:
   - type: chePlugin
     id: 'ms-kubernetes-tools/vscode-kubernetes-tools/0.1.17'
     alias: kubernetes-tools
+    registryUrl: https://github.com/lemaral/che-plugin-registry
   - type: chePlugin
     id: 'redhat/vscode-yaml/0.4.0'
     alias: vscode-yaml
