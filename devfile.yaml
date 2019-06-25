@@ -12,7 +12,6 @@ components:
     id: 'eclipse/che-theia/next'
     alias: theia-editor
   - type: chePlugin
-    id: 'ms-kubernetes-tools/vscode-kubernetes-tools/0.1.17'
     alias: kubernetes-tools
     reference: https://raw.githubusercontent.com/lemaral/che-plugin-registry/master/plugins/ms-kubernetes-tools.vscode-kubernetes-tools/0.1.17/meta.yaml
   - type: chePlugin
