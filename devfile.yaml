@@ -13,7 +13,7 @@ components:
     alias: theia-editor
   - type: chePlugin
     alias: kubernetes-tools
-    reference: https://raw.githubusercontent.com/lemaral/che-plugin-registry/master/plugins/ms-kubernetes-tools.vscode-kubernetes-tools/0.1.17/meta.yaml
+    reference: https://raw.githubusercontent.com/lemaral/che-plugin-registry/master/plugins/ms-kubernetes-tools.kubernetes-tools/0.1.17/meta.yaml
   - type: chePlugin
     id: 'redhat/vscode-yaml/0.4.0'
     alias: vscode-yaml
